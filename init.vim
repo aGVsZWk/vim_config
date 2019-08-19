@@ -52,6 +52,7 @@ call plug#begin('~/.local/share/nvim/plugged')
 Plug 'scrooloose/nerdtree'
 Plug 'scrooloose/nerdcommenter'
 Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'jistr/vim-nerdtree-tabs'
 
 " tag plug
 Plug 'majutsushi/tagbar'
@@ -136,7 +137,9 @@ Plug 'Shougo/neco-vim'
 call plug#end()
 
 map tb :TagbarToggle<CR>
-map tt :NERDTreeToggle<CR>
+" map tt :NERDTreeToggle<CR>
+
+map tt <plug>NERDTreeTabsToggle<CR>
 
 map <C-m> <Plug>NERDCommenterToggle
 
