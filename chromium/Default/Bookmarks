@@ -1,0 +1,174 @@
+{
+   "checksum": "9d5d15e3b14e6532050ed14714884e7d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13207241503542316",
+            "id": "15",
+            "name": "Manjaro Linux",
+            "type": "url",
+            "url": "https://wiki.manjaro.org/index.php?title=Main_Page"
+         }, {
+            "date_added": "13206936063543605",
+            "id": "5",
+            "name": "Compton (简体中文) - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php?title=Compton_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)&oldid=470932&printable=yes"
+         }, {
+            "date_added": "13206981765283560",
+            "id": "7",
+            "name": "I3 (简体中文) - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/I3_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)"
+         }, {
+            "date_added": "13206980136786565",
+            "id": "12",
+            "name": "Arch Linux 作死部署全程 - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/f2bf182cd724"
+         }, {
+            "date_added": "13206982946063889",
+            "id": "13",
+            "name": "i3: i3 User’s Guide",
+            "type": "url",
+            "url": "https://i3wm.org/docs/userguide.html"
+         }, {
+            "date_added": "13207325406955243",
+            "id": "17",
+            "name": "python网络编程——socket基础篇 - 人生苦短，python当歌 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/maociping/p/5112019.html"
+         }, {
+            "date_added": "13207325412859497",
+            "id": "18",
+            "name": "【Python3之socket编程】 - 张英爱 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/zhangyingai/p/7097922.html"
+         }, {
+            "date_added": "13207425651498764",
+            "id": "20",
+            "name": "YouCompleteMe/third_party/ycmd/third_party/cregex\" does not appear to contain CMakeLists.txt. - douzujun - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/douzujun/p/10629051.html"
+         }, {
+            "date_added": "13207480153259943",
+            "id": "22",
+            "name": "manjaro状态栏显示实时网速cpu内存等信息 - lmmarise的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/qq_41490274/article/details/83589368"
+         }, {
+            "date_added": "13207484696311759",
+            "id": "25",
+            "name": "Polybar旨在帮助用户为他们的桌面环境构建漂亮、高度可定制的状态栏 - Linux开发社区 | CTOLib码库",
+            "type": "url",
+            "url": "https://linux.ctolib.com/adi1090x-polybar-themes.html"
+         }, {
+            "date_added": "13207487501407324",
+            "id": "27",
+            "name": "Manjaro - enjoy the simplicity",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13208016612477908",
+            "id": "29",
+            "name": "使用i3wm时出现的若干问题的解决办法 - Sevenskey - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/sevenskey/p/5436172.html"
+         }, {
+            "date_added": "13208092746243343",
+            "id": "31",
+            "name": "技术|如何优雅地使用 VIM 文件管理插件 NERDTree",
+            "type": "url",
+            "url": "https://linux.cn/article-7424-1.html"
+         }, {
+            "date_added": "13208112215154722",
+            "id": "33",
+            "name": "使用同步滚动和灵活配置在浏览器上预览在neovim中编写的markdown - JavaScript开发社区 | CTOLib码库",
+            "type": "url",
+            "url": "https://javascript.ctolib.com/iamcco-markdown-preview-nvim.html"
+         }, {
+            "date_added": "13208146746565095",
+            "id": "35",
+            "name": "Emmet Documentation",
+            "type": "url",
+            "url": "https://docs.emmet.io/"
+         }, {
+            "date_added": "13208170486267293",
+            "id": "37",
+            "name": "学习 Vim 之 vim_signature 插件 - Qian's World",
+            "type": "url",
+            "url": "http://guqian110.github.io/pages/2015/05/06/learning_vim_signature_plugin.html"
+         }, {
+            "date_added": "13208761706573972",
+            "id": "39",
+            "name": "manjaro 更新报错-无效或已损坏的软件包 (PGP 签名) - 清风冷吟 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/weixin_43968923/article/details/86517381"
+         }, {
+            "date_added": "13208778058282878",
+            "id": "41",
+            "name": "codingforentrepreneurs/Reactify-Django: Integrate React & Django",
+            "type": "url",
+            "url": "https://github.com/codingforentrepreneurs/Reactify-Django"
+         }, {
+            "date_added": "13208778207524554",
+            "id": "42",
+            "name": "Projects | Coding For Entrepreneurs",
+            "type": "url",
+            "url": "https://www.codingforentrepreneurs.com/projects#setup"
+         }, {
+            "date_added": "13209059240747250",
+            "id": "43",
+            "name": "（一）archlinux安装docker - 不最醉不龟归的空间 - OSCHINA",
+            "type": "url",
+            "url": "https://my.oschina.net/bysu/blog/1805138"
+         }, {
+            "date_added": "13209059578331887",
+            "id": "45",
+            "name": "[ARCH] 1、virtualbox中安装archlinux+i3桌面，并做简单美化 - beautifulzzzz - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/zjutlitao/p/9380485.html"
+         }, {
+            "date_added": "13209061798470653",
+            "id": "47",
+            "name": "Arch Linux 安装 MySQL 8.0 - Demo - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/qq_40829735/article/details/81166669"
+         }, {
+            "date_added": "13209061894549489",
+            "id": "48",
+            "name": "Manjaro安装mysql数据库 - 流离马--枫林漫步 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/Bruce_Chou/article/details/85081721"
+         }, {
+            "date_added": "13210782907700732",
+            "id": "50",
+            "name": "电脑显示器上有几个插口呢，有什么作用?_百度知道",
+            "type": "url",
+            "url": "https://zhidao.baidu.com/question/577792971.html"
+         } ],
+         "date_added": "13206935404461085",
+         "date_modified": "13210782907700732",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13206935404461090",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13206935404461090",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

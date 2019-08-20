@@ -1,0 +1,4 @@
+package wttr
+theme default
+theme l
+theme redfish

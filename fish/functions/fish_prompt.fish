@@ -1,0 +1,1 @@
+/home/luke/.local/share/omf/themes/redfish/fish_prompt.fish

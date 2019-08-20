@@ -1,0 +1,5 @@
+2019/07/12-23:52:20.847 3c2a Reusing MANIFEST leveldb/MANIFEST-000001
+2019/07/12-23:52:20.848 3c2a Recovering log #3
+2019/07/12-23:52:20.857 3c2a Level-0 table #3: started
+2019/07/12-23:52:20.881 3c2a Level-0 table #3: 653112 bytes OK
+2019/07/12-23:52:20.889 3c2a Delete type=0 #3
